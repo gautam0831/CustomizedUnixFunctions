@@ -85,7 +85,6 @@ void print_last_n(FILE *fp, int n) {
       
 }
 
-// ------- DO NOT EDIT ANY CODE BELOW THIS LINE (but do add comments!)  -------
 //This function takes in a string and a maximum integer that will allow to
 //convert the number of lines given as input to the main into an integer
 int convert_arg(const char *str, int max) {
