@@ -77,7 +77,6 @@ void print_uniq_lines(FILE *fp) {
 }
 
 
-// ------- DO NOT EDIT ANY CODE BELOW THIS LINE (but do add comments!)  -------
 //This main function takes in the arguments to the function itself and calls
 //the print_uniq_lines function to print the unique lines of the file.
 int main(int argc, char *argv[]) {
